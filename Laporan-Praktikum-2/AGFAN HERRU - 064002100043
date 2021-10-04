@@ -1,0 +1,28 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Okt 04 09:11:23 2021
+
+@author: Agfan HerruPratama
+NAMA: AGFAN HERRU PRATAMA
+NIM: 064002100043
+"""
+
+print ("@@@@  @@@@  @@@@  @@@@  @@@@")
+print ("@  @  @     @     @  @  @  @")
+print ("@@@@  @ @@  @@@@  @@@@  @  @")
+print ("@  @  @@@@  @     @  @  @  @")
+print ("sisi mana yang ingin anda hitung: a")
+b = int(input('Masukkan nilai b: '))
+c = int(input('Masukkan nilai c: '))
+print ("panjang c tidak valid!")
+int(input('masukkan panjang c : '))
+int(input('panjang sisi a adalah '))
+
+print ("@@@@  @@@@  @@@@  @@@@  @@@@")
+print ("@  @  @     @     @  @  @  @")
+print ("@@@@  @ @@  @@@@  @@@@  @  @")
+print ("@  @  @@@@  @     @  @  @  @")
+print ("sisi mana yang ingin anda hitung: c")
+b = int(input('Masukkan nilai b : '))
+c = int(input('Masukkan nilai a : '))
+int(input('panjang sisi c adalah : '))
