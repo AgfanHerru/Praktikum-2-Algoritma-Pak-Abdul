@@ -1,0 +1,23 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Oct  4 11:19:02 2021
+
+@author: Agfan HerruPratama
+NAMA: AGFAN HERRU PRATAMA
+NIM: 064002100043
+"""
+print ("@@@@  @@@@  @@@@  @@@@  @@   @ ")
+print ("@  @  @     @     @  @  @ @  @ ")
+print ("@@@@  @ @@  @@@@  @@@@  @  @ @ ")
+print ("@  @  @@@@  @     @  @  @   @@ ")
+
+a = int(input('masukan nilai a : '))
+b = int(input('masukan nilai b : '))
+c = int(input('masukan nilai c : '))
+
+if a > b and a > c:
+  print("A yang terbesar : " )
+elif b > a and b > c:
+  print("B yang terbesar" )
+else:
+  print('C yang terbesar')
